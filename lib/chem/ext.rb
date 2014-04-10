@@ -1,0 +1,1 @@
+require 'chem/ext/symbol'
